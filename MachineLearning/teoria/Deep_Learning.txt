@@ -1,0 +1,21 @@
+Debido a su muy reciente auge, no se ha llegado a una definición definitiva de Deep Learning como concepto, 
+sin embargo, aquí hay algunas de las definiciones que hay actualmente:
+
+- Se utiliza una cascada de capas con unidades de procesamiento no lineal para extraer y transformar variables.
+- Cada capa utiliza la salida de la capa anterior como entrada.
+- Se puede utilizar con algoritmos de aprendizaje supervisado o de aprendizaje sin supervisión.
+- Las características de más alto nivel se derivan de las características de nivel inferior,
+     formando una representación jerárquica.
+
+
+Estos son algunos de los algoritmos de Deep Learning:
+
+- Deep Neural Networks (Redes Neuronales Profundas)
+- Convolutional Neural Networks (Redes Neuronales Convolucionales)
+- Deep Belief Networks (Redes de Creencias Profundas)
+
+Estas son algunas áreas donde se utiliza Deep Learning:
+
+Computer Vision
+Reconocimiento del habla
+Reconocimiento de audio

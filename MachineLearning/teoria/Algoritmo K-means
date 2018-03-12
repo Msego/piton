@@ -1,0 +1,13 @@
+Éste es un algoritmo sin supervisión. Sirve para agrupar los datos en función de ciertos patrones.
+
+Vamos a explicar el procedimiento del agrupamiento de datos:
+
+Dado un conjunto inicial de k centros (donde k es cualquier número o cualquier variable) el algoritmo continúa
+iterando entre dos pasos.
+
+- Paso de asignación. Asigna cada dato al grupo con la media más cercana, es decir, 
+    la partición de las observaciones generadas por los centros.
+    
+- Paso de actualización. Calcula nuevos centros como el centro de las observaciones en el grupo o partición.
+
+El algoritmo se considera que converge cuando los centros ya no cambian.

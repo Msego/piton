@@ -1,0 +1,35 @@
+Algoritmo: Conjunto de instrucciones específicas y finitas, esto significa que son pasos determinados que tienen un inicio
+y un fin. Estos pasos nos ayudan a completar una tarea.
+
+Los algoritmos tienen siempre un paso inicial y una entrada, así como un paso final y un resultado.
+
+Regresión Lineal es el algoritmo por defecto y es un algoritmo de aprendizaje supervisado. 
+    Ayuda a predecir el valor esperado de una variable a cuando b tiene un cierto valor.
+
+    Para poder hacer una regresión lineal, asumimos que los valores tienen una relación lineal,
+    por esto es necesario analizar nuestros datos antes de hacer una predicción para verificar que sea así.
+
+    Esta es la fórmula para poder calcular el pronóstico:
+    Pronóstico = Intersección + [Pendiente * Período de Tiempo]
+
+    El primer paso para calcular el pronóstico es calcular la pendiente
+
+    Lo segundo es calcular la intersección de la línea.
+
+La Regresión Logística es un algoritmo que nos sirve para predecir la probabilidad de que un evento pase o no.
+También es conocida como Regresión Binaria ya que solamente puede predecir entre 0 o 1.
+
+La Regresión Logística la utilizamos para clasificar y esta es la formula que lo explica:
+
+Donde:
+0 = Clase negativa
+1 = Clase positiva
+
+Todos los elementos que cumplen con los patrones que sigue el algoritmo que estamos programando pertenecen a la “clase positiva”.
+
+Si recuerdas, la Regresión Logística es la probabilidad de que un evento ocurra o no, en este caso, 
+con la Regresión Logística Multinomial ya tenemos diferentes tipos de eventos, por tanto, en su definición es la probabilidad
+ de que ocurra cualquiera de estos eventos.
+
+Este también considerado un algoritmo de clasificación.
+

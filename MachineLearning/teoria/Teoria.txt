@@ -1,0 +1,21 @@
+Inteligencia Artificial: Intento de hacer a un dispositivo tan o más inteligente que un humano.
+Darle la capacidad de razonar o pensar en función a los datos que se le está pasando.
+
+Tipos de IA:
+    - Inteligencia Artificial Debil - no piensa - Actual
+    - Inteligencia Artificial Fuerte - piensa
+    - Super Inteligencia Artificial - mas inteligente que un humano
+
+
+Singularity: Es el nombre que se le da al concepto del momento en el que la Super Inteligencia Artificial va a dominar.
+
+En la anatomía de la Inteligencia Artificial existen 5 partes:
+
+    - Percepción. A través de sensores.
+    - Procesamiento natural del lenguaje.
+    - Representación del conocimiento. Darle una imagen gráfica a los conocimientos o eventos.
+    - Razonamiento. Capacidad para tomar una decisión.
+    - Planeación y Navegación. La forma de reaccionar ante situaciones inesperadas.
+
+Fuerte o Super: Deben cumplir las 5 condiciones
+Debil: No es necesario que cumpla las 5 condicones    

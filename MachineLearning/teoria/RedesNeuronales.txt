@@ -1,0 +1,27 @@
+El concepto de Redes Neuronales llega gracias a un científico que experimentaba con tejido animal.
+En uno de sus experimentos con un cerebro, se dio cuenta que si desconectaba la parte que estaba conectada al ojo,
+es decir, la parte que tenía la capacidad de recibir y procesar imágenes, y la conectaba al oído,
+ esta parte desarrollaba la capacidad de escuchar.
+  Con esto llegó a la conclusión de que nuestro cerebro tiene un algoritmo maestro de aprendizaje. 
+  Todo depende de la entrada de información que se le provea.
+
+Como resultado de este descubrimiento decidió replicarlo en un algoritmo matemático.
+
+Las Redes Neuronales existen hace más de 60 años. En los años 80´s eran muy utilizadas,
+ pero en los años 90´s decayeron considerablemente debido a que el costo computacional 
+ para entrenar una red neuronal era muy elevado.
+
+Hoy en día ha tomado fuerza nuevamente debido a los grandes avances tecnológicos 
+y al hecho de que existe un alto grado de precisión que tienen los resultados de las predicciones que se hacen 
+con estas Redes Neuronales.
+
+Notas importantes:
+Las Redes Neuronales son el algoritmo más utilizado hoy en día.
+Las neuronas, como lo vimos en el tema de Regresión Lineal, disparan solamente valores de 0 y 1, es decir, 
+ejecutan o no ejecutan
+En las Redes Neuronales artificiales todos los resultados caen entre 0 y 1.
+Una Red Neuronal se mide por capas. En el esquema que describe a las Redes Neuronales,
+ tenemos por defecto la capa de entrada y de salida, por lo que depende del número de capas de en medio la medición de éstas.
+Las compuertas lógicas realizan operaciones basadas en las condiciones lógicas por las que están diseñadas.
+Las compuertas lógicas pueden sumar, restar, multiplicar, negar o afirmar un valor.
+Las operaciones sigmoidales solo dan resultado o 0 o 1.

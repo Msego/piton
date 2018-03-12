@@ -1,0 +1,40 @@
+Machine Learning: Serie de algoritmos que hacen que un sistema sea artificialmente inteligente.
+
+Los algoritmos se dividen en 2 partes:
+
+    - Aprendizaje supervisado: En este aprendizaje somos nosotros los que guiamos al algoritmo a la respuesta correcta.
+    - Aprendizaje sin supervisión: El algoritmo detecta patrones y agrupa la información con estos patrones. 
+        Aquí nosotros podemos darle características a los algoritmos y éstos agrupan todo mediante patrones 
+        relacionados con esa información.
+
+
+Revisando Probabilidad y Estadística:
+
+    Media/Promedio: Es la suma de las medidas entre el numero total de los datos. 
+        Como cuando sacas el promedio de las notas de tus materias en la escuela/universidad
+
+    Moda: Es el valor con mayor frecuencia en una distribución de datos.
+        Un numero que se repite varias veces en una lista de numero.
+
+    Mediana: Es el valor que ocupa el lugar central de todos los datos cuando estan agrupados de menor a mayor. 
+        Es el valor que se encuentra en la mitad, 50% **mediana **50%
+
+Varianza y Desviación Estándar
+
+    - Varianza: Es una medida de dispersión definida como la esperanza del cuadrado de la desviación de dicha variable respecto
+     a la media, o dicho de otra forma, es la media de los residuos al cuadrado.
+        1- Calcularla suma de los datos
+        2- Calcular la media
+        3- Restar la media a cada datos
+        4- Elevar al cuuadrado cada resultado
+        5- Sumar todos los resultados y sacar la media de la sumatoria
+
+    
+    - Desviación Estándar = Es la raíz cuadrada de la varianza de la variable.
+        1- Calcularla suma de los datos
+        2- Calcular la media
+        3- Restar la media a cada datos
+        4- Elevar al cuuadrado cada resultado
+        5- Sumar todos los resultados y sacar la media de la sumatoria
+        6- Raiz cuadrada del resultado
+     
